@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "TheLastDantes"
 facebook:
   username               :
   app_id                 :
@@ -87,9 +87,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "Elliott-Hall-65710439416"
   foursquare       :
-  github           :
+  github           : "elliotthall"
   google_plus      :
   keybase          :
   instagram        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "TheLastDantes"
   vine             :
   weibo            :
   xing             :

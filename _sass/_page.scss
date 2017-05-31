@@ -50,6 +50,37 @@
   font-size: $type-size-4;
 }
 
+.page-icons ul {
+  margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: inline;
+    float: none;
+}
+
+.page-icons ul li {
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-family: $sans-serif-narrow;
+    font-size: $type-size-6;
+    text-transform: uppercase;
+    display: inline;
+    float: none;
+  }
+div.page-icons{
+  width:30%;
+  margin:auto;
+}
+.page-icons a {
+  
+  font-size: 200%;
+}
+
+.page-icons a i{
+  color: #000 !important;
+}  
+
 .page__content {
 
   h2 {
