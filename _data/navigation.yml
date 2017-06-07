@@ -1,11 +1,11 @@
 # main links
 main:  
-  - title: "About"
-    url: /#about
+  # - title: "About"
+  #   url: /#about
   - title: "Books"
     url: /#books
   - title: "Developer"
-    url: /#developr
+    url: /#developer
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

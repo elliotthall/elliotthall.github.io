@@ -50,12 +50,15 @@
   font-size: $type-size-4;
 }
 
+
 .page-icons ul {
   margin: 0;
     padding: 0;
     list-style-type: none;
     display: inline;
-    float: none;
+    float: left;
+    width: span(4);
+    margin-left: span(4)
 }
 
 .page-icons ul li {
@@ -69,8 +72,12 @@
     float: none;
   }
 div.page-icons{
-  width:30%;
+  width:span(12);
   margin:auto;
+}
+div.social-icons{
+  width:span(4);
+  margin-left:span(4) + gutter();
 }
 .page-icons a {
   
